@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Barcode-Reader-master.iml" filepath="$PROJECT_DIR$/Barcode-Reader-master.iml" />
+      <module fileurl="file://E:\Android\Stud\Barcode-Reader-master\BarcodeReader.iml" filepath="E:\Android\Stud\Barcode-Reader-master\BarcodeReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/barcode-reader/barcode-reader.iml" filepath="$PROJECT_DIR$/barcode-reader/barcode-reader.iml" />
+      <module fileurl="file://E:\Android\Stud\Barcode-Reader-master\barcode-reader\barcode-reader.iml" filepath="E:\Android\Stud\Barcode-Reader-master\barcode-reader\barcode-reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
+      <module fileurl="file://E:\Android\Stud\Barcode-Reader-master\example\example.iml" filepath="E:\Android\Stud\Barcode-Reader-master\example\example.iml" />
+    </modules>
+  </component>
+</project>
